@@ -144,5 +144,6 @@ if __name__ == "__main__":
     print(final_result)
     print("***************************************************")
     write_json(final_result, args.outputpath)
+    print("ok")
 
 
